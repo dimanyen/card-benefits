@@ -5,6 +5,10 @@ This project demonstrates how to create a Retrieval-Augmented Generation (RAG) s
 
 本項目展示如何使用 Langchain 和 OpenAI 的 GPT-4 創建一個檢索增強生成 (RAG) 系統，集成了存儲在向量數據庫中的 PDF 數據。該示例設計在 Google Colab 環境中運行，並提供了必要的依賴項。
 
+# Sample
+問題: "我想要去日本玩，有麼優惠推薦"
+![Sample Image](https://github.com/dimanyen/card-benefits/blob/main/sample.png?raw=true)
+
 ## Prerequisites / 先決條件
 
 - Python 3.7+
